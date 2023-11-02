@@ -1,0 +1,15 @@
+!DOCTYPE html
+
+<html>
+    <head>           
+        <title>Website</title>
+        <body>
+            <table>
+                <tr>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </table>
+        </body>
+    </head>
+</html>
